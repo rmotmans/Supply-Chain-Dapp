@@ -6,6 +6,9 @@
   "directories": {
     "test": "test"
   },
+  "dependencies": {
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
