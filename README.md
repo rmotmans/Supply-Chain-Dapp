@@ -12,6 +12,11 @@ The DApp User Interface when running should look like...
 
 ![truffle test](images/ftc_transaction_history.png)
 
+- truffle: v5.1.13
+- node: v12.15.0
+- truffle-hdwallet-provider: v1.0.17
+- openzeppelin-solidity: v2.5.0
+
 
 ## Getting Started
 
