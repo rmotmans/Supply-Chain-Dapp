@@ -7,9 +7,9 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
 - truffle: v5.1.13
 - node: v12.15.0
 - web3.js: v1.2.7
-- truffle-assertions: v0.9.2
+- truffle-assertions: v0.9.2  
     We used this library to make the process of writing tests easier
-- truffle-hdwallet-provider: v1.0.17
+- truffle-hdwallet-provider: v1.0.17  
     To easily deploy our smart contract on the ethereum test nets through Infura
 
 
