@@ -39,7 +39,18 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
 
 ## Smart Contract
 
+Contract deployed on Rinkeby test network.  
+Contract address: 0x78f5E570Fb0fB312efA0c277bEd1f2336c578811 (https://rinkeby.etherscan.io/address/0x78f5e570fb0fb312efa0c277bed1f2336c578811)  
 
+**Transactions**
+- Harvested: 0x5eabdf6200db37e382f0ba50b146223d05ce1688f2d541829f63271404c4a14e
+- Processed: 0x0cc22bd32c50f66fc9b4d566828ce13a96084a54f17e6c49c2e8eb13e6a5fbfe
+- Packed: 0x07fa9a8ad6c1c027cb48766711f8006ad6808dadfb4df29a8ec0ec82ff125287
+- ForSale: 0x581083177d4ac540f3b9b8544c4cb2f0202d984439480c6cdfb79d95ddfdbae8
+- Sold: 0x869e2c87ee9c7eae0abc7f555f3cc3000be4ccea2defb42b4e55dabf3aa154cd
+- Shipped: 0x2935d5d213c71f7232a9a702d9e885ea4711320ad690eff404d5333f2ee32de4
+- Received: 0xb76cd4d3d3430e126301de7283ad110865b28bfb9a3d7b36076c8e32244cf563
+- Purchased: 0xfc6dd71b5efc37251047d0d9a1d441b205cae6714aa1d2e6bc1103a1f984f3cc
 
 ## IPFS
 
