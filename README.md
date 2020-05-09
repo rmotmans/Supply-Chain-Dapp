@@ -17,19 +17,29 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
 
 ![activity](https://raw.githubusercontent.com/rmotmans/Supply-Chain-Dapp/master/images/Activity_Diagram.png)
 
+### Sequence Diagram
+
+![sequence](https://raw.githubusercontent.com/rmotmans/Supply-Chain-Dapp/master/images/Sequence_Diagram.png)
+
+### State Diagram
+
+![state](https://raw.githubusercontent.com/rmotmans/Supply-Chain-Dapp/master/images/State_Diagram.png)
+
+### Class Diagram
+
+![class](https://raw.githubusercontent.com/rmotmans/Supply-Chain-Dapp/master/images/Class_Diagram.png)
+
 ## Built With
 
 * [Ethereum](https://www.ethereum.org/) - Ethereum is a decentralized platform that runs smart contracts
+* [Solidity](https://solidity.readthedocs.io) - Solidity is the programming language in which the smart contracts are written
 * [Truffle Framework](http://truffleframework.com/) - Truffle is the most popular development framework for Ethereum with a mission to make your life a whole lot easier.
 
+## Smart Contract
 
-## Authors
 
-See also the list of [contributors](https://github.com/your/project/contributors.md) who participated in this project.
 
-## Acknowledgments
+## IPFS
 
-* Solidity
-* Ganache-cli
-* Truffle
-* IPFS
+To get a decentralized application on all aspects you could also upload your front-end files (html, css and js) to IPFS.
+In this project I did not use IPFS.
